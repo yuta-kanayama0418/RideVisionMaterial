@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e19b59091728d4d4aa81768ad0620748
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - blue: {fileID: 2800000, guid: f2cfa972b08f25749b54dcbc6cffa5f1, type: 3}
+  - red: {fileID: 2800000, guid: ec0a87106dee4d14fbcd947dc5cd887c, type: 3}
+  - yellow: {fileID: 2800000, guid: 0aceca1b2b685fe4fa4da7bed25b3f5a, type: 3}
+  - green: {fileID: 2800000, guid: b78b83f92ca990c46926b4aae4250255, type: 3}
+  - light_blue: {fileID: 2800000, guid: 03109c091a54bf24e8d65bc4339ec095, type: 3}
+  - blue_hdr: {fileID: 2800000, guid: 32575736ca78a994db6928a7fce665ab, type: 3}
+  - red_hdr: {fileID: 2800000, guid: 5d8f738ac2d82af41ac7d2e156d20888, type: 3}
+  - yellow_hdr: {fileID: 2800000, guid: c8ae19e32a3473149a59abb10df4692a, type: 3}
+  - green_hdr: {fileID: 2800000, guid: dd4c6cf2da9a9a548a86d8ab336071b1, type: 3}
+  - light_blue_hdr: {fileID: 2800000, guid: 94a6b6b48c5c02c4696a363f893c7eb2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

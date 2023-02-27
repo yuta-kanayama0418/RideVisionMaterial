@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8437098849725676714
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1315870017699469056}
+  - component: {fileID: 1955769199054311873}
+  m_Layer: 0
+  m_Name: FishLocalPlacement
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1315870017699469056
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8437098849725676714}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1955769199054311873
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8437098849725676714}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd69a6eb3dce9fb40ab706437765566d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TrackingOrigin: {fileID: 0}
+  XRCamera: {fileID: 0}
+  TrackingOriginChildren:
+  - {fileID: 8549912700414295366, guid: 1cb5fd2ba3c46f64f962ae24763d4760, type: 3}
+  - {fileID: 4354408903180614659, guid: 768156695b4256d46bcb1f5173dcd51f, type: 3}
+  - {fileID: 9060946511416856066, guid: 489e0b9145c20c545896f585aa601eaa, type: 3}
+  - {fileID: 3455538866079676606, guid: c426c9ae6cb8e724ca1e2626f3fb01dd, type: 3}
+  - {fileID: 2073183441241113413, guid: a96f20ff4b9e78c499ecd2e6dfed75a3, type: 3}
+  XRCameraChildren: []

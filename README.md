@@ -1,2 +1,3 @@
 # RideVisionMaterial
 シナスタジアからお借りした実験３で使用した素材データ
+Scene3/Prefabs.zipを展開する必要あり
